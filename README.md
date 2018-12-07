@@ -13,7 +13,7 @@
 - The main machine learning concepts covered in this project include the following:
 
 - Data Exploration: This included feature exploration and determining the total number of people that make over $50,000 per year and what proportion that is of the total population in the dataset. 
-- Model Preparation: This included data preprocessing and encoding.
+- Model Preparation: This included data preprocessing and label encoding transform the data into a form that is more optimal for the model's learning.
 - Evaluating Model Performance: Selected 3 different algorithms to build models with and determined the performance of each one in order to determine which of the three candidates to select for my final model.
 - Improving Results: Provided justification for my algorithm selection, and explained the structure of the final model in simple terms. Then did some hyper-parameter tuning and evaluated the performance of my new and improved model.
 - Feature Importance: Determined which features from the dataset were good predictors of income and which were not. Was able to quantify the importance of each feature and was able to rank them by importance.
