@@ -5,7 +5,7 @@
 
 - As the name suggests, this Supervised Learning project is centered on the creation of a machine learning model capable of determining the whether an individual makes more than $50,000 per year using publicly available information. This would help the charity determine whether to solicity a donation from an individual and what ammount to ask for.
 
-- This Jupyter Notebook project comprised of Python code blocks with my contributions including the word 'Implementation' in the section header, and with the 'TODO' keyword in the comments preceding my code contribution. 
+- This Jupyter Notebook project is comprised of Python code blocks with my contributions including the word 'Implementation' in the section header, and with the 'TODO' keyword in the comments preceding my code contribution. 
 
 - Furthermore, there are 8 conceptual questions that I have answered thoroughly and demonstrate my understanding of the data and the work that I engaged in with it.
 
