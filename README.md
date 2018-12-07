@@ -1,5 +1,5 @@
 # Finding-Donors-for-CharityML
-- This is my second nanodegree project.
+- This is my second Udacity Machine Learning Engineer nanodegree project.
 
 - To view my work, open the finding_donors_charityml.ipynb file. The rest are supporting files or less readable formats of the same work.
 
